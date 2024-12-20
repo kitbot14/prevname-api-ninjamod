@@ -20,7 +20,7 @@ git clone https://github.com/kitbot14/prevname-api-ninjamod.git
 cd ninja-mod
 
 npm install
-```
+
 {
   "DISCORD_TOKEN": "votre_token_discord",
   "CLIENT_ID": "votre_client_id",
@@ -28,7 +28,7 @@ npm install
   "API_URL": "https://exemple.com/api",
   "API_KEY": "votre_clé_api"
 }
-```
+
 
 node index.js
 
