@@ -48,3 +48,5 @@ ninja-mod-discord-bot/
 ```
 Cela devrait fournir une bonne base pour que d'autres utilisateurs puissent installer, configurer et utiliser votre bot.
 
+
+pour avoir la api kay c [ici](https://discord.gg/ninjamod) 
