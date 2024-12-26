@@ -1,0 +1,7 @@
+{
+  "DISCORD_TOKEN": "TOKEN_BOT",
+  "CLIENT_ID": "ID_BOT",
+  "GUILD_ID": "ID_SERVER",
+  "API_URL": "http://212.103.47.37:27207", //ne pas toucher
+  "API_KEY": "TON_API_KEY" //pour avoir la api c ici http://212.103.47.37:27207/api/key
+}
