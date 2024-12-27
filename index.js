@@ -2,6 +2,7 @@ const { Client, GatewayIntentBits, EmbedBuilder, REST, Routes } = require('disco
 const axios = require('axios');
 const fs = require('fs');
 
+
 // Chargement de la configuration depuis config.json
 const config = JSON.parse(fs.readFileSync('config.json', 'utf8'));
 
